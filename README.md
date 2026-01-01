@@ -49,5 +49,3 @@
 
 </body>
 </html>
-# respect-voting
-respect-voting
